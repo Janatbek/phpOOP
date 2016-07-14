@@ -1,0 +1,6 @@
+
+Now that you've learned some advanced OOP concepts and data structures, try building a deck of cards. Your Deck class should contain 52 standard cards, 13 cards and 4 suits. Your Deck should have a shuffle method, a reset method, and the ability to deal cards (which will return the dealt card and remove it from that deck). 
+
+Next, create the Player class, which should have a name, a hand, and the ability to draw and discard cards. Using this data structure, try implementing a simple card game. What new methods would your classes need for Go Fish or Poker? Blackjack could be done with this Deck of Cards, no extra methods or classes needed! Here is a set of .png card faces and backs you can use.
+
+Spend no longer than 5 hours implementing your card game!
