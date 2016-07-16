@@ -32,12 +32,17 @@ class Deck{
 	}
 }
 
+class Player{
+	public $name;
+	public $hand;
+	public function __construct(){
 
-//=====================================
-	//shuffling
-	// $numbers = range(1, 52);
-	// 	shuffle($numbers);
-	// 	foreach ($numbers as $number) {
- //    	echo "$number ";
-	// 	}	
-?>
+	}
+	public function draw(){
+
+	}
+	public function discard(){
+		
+	}
+	
+}
